@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1c416ec0d54847725ea11909",
+  "owner": "emubpvtdhg",
+  "repo": "page-d871f176ab72e4785fffca61",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d871f176ab72e4785fffca61",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "295f84552e9ab72985f43fd51320de62b2de7ecfd38d313e531fde463d11a1b3",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供稳定VPN加速服务，支持多设备在线，解锁流媒体。立即下载客户端，享受优质网络体验。",
+          "AI_DESCRIPTION": "44F网络提供稳定VPN加速服务，支持多设备在线，解锁流媒体。立即下载客户端，享受优质网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    <style>\n        :root {\n            --gray: #f5f5f5;\n            --purple: #6b46c1;\n            --white: #ffffff;\n            --text: #333333;\n        }\n        body {\n            font-family: 'Helvetica Neue', Arial, sans-serif;\n            margin: 0;\n            padding: 0;\n            background-color: var(--gray);\n            color: var(--text);\n            line-height: 1.6;\n        }\n        header {\n            background-color: var(--white);\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 1rem 5%;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--purple);\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n        }\n        .nav-links a {\n            color: var(--text);\n            text-decoration: none;\n            font-weight: 500;\n        }\n        .hero {\n            background: linear-gradient(135deg, #6b46c1, #8a4fff);\n            color: white;\n            padding: 4rem 5%;\n            text-align: center;\n        }\n        .hero h2 {\n            font-size: 2.5rem;\n            margin-bottom: 1rem;\n        }\n        .section {\n            padding: 4rem 5%;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        .left-right {\n            display: flex;\n            gap: 3rem;\n            flex-wrap: wrap;\n        }\n        .left {\n            flex: 1;\n            background: var(--gray);\n            padding: 2rem;\n        }\n        .right {\n            flex: 1;\n            background: #f0e6ff;\n            padding: 2rem;\n        }\n        h1 {\n            font-size: 2.8rem;\n            margin-bottom: 1rem;\n            color: var(--purple);\n        }\n        h2 {\n            font-size: 2rem;\n            margin-bottom: 1.5rem;\n            color: var(--purple);\n        }\n        h3 {\n            font-size: 1.5rem;\n            margin-bottom: 1rem;\n        }\n        p {\n            margin-bottom: 1rem;\n        }\n        ul, ol {\n            padding-left: 1.5rem;\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 2rem;\n        }\n        .plan {\n            background: white;\n            border-radius: 8px;\n            padding: 2rem;\n            box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n        }\n        .plan.featured {\n            border: 2px solid var(--purple);\n        }\n        .footer {\n            background: #333;\n            color: white;\n            padding: 3rem 5%;\n            text-align: center;\n        }\n        .faq {\n            background: var(--white);\n        }\n        details {\n            margin-bottom: 1rem;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 1rem 1.5rem;\n            font-weight: bold;\n            background: #f5f5f5;\n            cursor: pointer;\n        }\n        summary:hover {\n            background: #e0e0e0;\n        }\n        .answer {\n            padding: 1rem 1.5rem;\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">44F网络</div>\n            <div class=\"nav-links\">\n                <a href=\"#scenarios\">使用场景</a>\n                <a href=\"#config\">配置流程</a>\n                <a href=\"#plans\">套餐选择</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h1>44F网络</h1>\n            <h2>高速VPN加速器</h2>\n            <p>稳定连接，畅享无限可能</p>\n        </section>\n        <section class=\"section\">\n            <h2>品牌简介</h2>\n            <p>44F网络是一款专业的网络加速解决方案，致力于为用户提供优质的VPN服务。无论是在家办公、日常娱乐还是国际旅行，我们都能为您带来稳定高速的网络体验。</p>\n        </section>\n        <section id=\"scenarios\" class=\"section left-right\">\n            <h2>使用场景</h2>\n            <div class=\"left\">\n                <h3>日常办公</h3>\n                <p>稳定连接保障工作顺利进行。</p>\n            </div>\n            <div class=\"right\">\n                <h3>在线游戏</h3>\n                <p>低延迟加速，提升游戏体验。</p>\n            </div>\n            <div class=\"left\">\n                <h3>海外访问</h3>\n                <p>解锁全球内容，自由浏览。</p>\n            </div>\n            <div class=\"right\">\n                <h3>社交媒体</h3>\n                <p>快速加载，提升沟通效率。</p>\n            </div>\n        </section>\n        <section id=\"config\" class=\"section\">\n            <h2>配置流程</h2>\n            <div class=\"left-right\">\n                <div class=\"left\">\n                    <h3>第一步：下载客户端</h3>\n                    <p>访问官网下载安装包。</p>\n                </div>\n                <div class=\"right\">\n                    <h3>第二步：注册账号</h3>\n                    <p>使用邮箱完成注册。</p>\n                </div>\n                <div class=\"left\">\n                    <h3>第三步：选择线路</h3>\n                    <p>根据需求选择节点连接。</p>\n                </div>\n                <div class=\"right\">\n                    <h3>第四步：享受加速</h3>\n                    <p>连接成功，即可使用。</p>\n                </div>\n            </div>\n        </section>\n        <section id=\"plans\">\n            <h2>选择您的套餐</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"faq\" class=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>44F网络支持哪些设备？</summary>\n                <div class=\"answer\">\n                    <p>44F网络支持 Windows、Mac、Android、iOS 等主流设备。</p>\n                </div>\n            </details>\n            <details>\n                <summary>如何选择适合的套餐？</summary>\n                <div class=\"answer\">\n                    <p>根据您的流量需求和设备数量选择基础版、旗舰版或团队版。</p>\n                </div>\n            </details>\n            <details>\n                <summary>什么是配置流程？</summary>\n                <div class=\"answer\">\n                    <p>配置流程包括下载安装、注册账号、选择节点和连接使用四个简单步骤。</p>\n                </div>\n            </details>\n            <details>\n                <summary>44F网络能解锁哪些内容？</summary>\n                <div class=\"answer\">\n                    <p>支持解锁基础和全节点原生流媒体。</p>\n                </div>\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                <div class=\"answer\">\n                    <p>提供7x24 优先工单支持，团队版有专属客户经理。</p>\n                </div>\n            </details>\n        </section>\n        <section>\n            {{CLIENTS_HTML}}\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 44F网络 版权所有</p>\n    </footer>\n\n",
+          "hash": "cf23505d63bd82175b8a712057acda6dc57c5bcfb913216be2cb10b100debda4",
+          "seo": {
+            "title": "44F网络 - 高速VPN加速器 | 客户端下载 | 官网",
+            "keywords": "44F网络, 高速VPN, VPN加速器, 客户端下载, 官网",
+            "description": "44F网络提供稳定VPN加速服务，支持多设备在线，解锁流媒体。立即下载客户端，享受优质网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xvwzbii.cn",
+    "host": "b.xvwzbii.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "xvwzbii.cn",
+      "url": "https://xvwzbii.cn/",
+      "label": "白嫖(CCCAT)",
+      "apex": "xvwzbii.cn",
+      "kind": null,
+      "identity": "gcwduuufg/page-c456f6ac79a90b040b1fadd6"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6d877826c4e03489529c88cac4665fd8f3ba8f1cc1654fa4232fea0b159597b9",
+    "sitemap.xml": "d2ebee504ec0ed8311e5ad8abea0757b9f4bb6077acf9bbf0b818dca26e5575d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "830eabddfa09f336f860cbca759ce0a9f9b095273e0977f8d5784c616d4c84e6",
+    "robots.txt": "45e2726cec906c40ec4086438563d767aaeb41d57bead26f127908f358139ce6",
+    "6ed5282ec83587e481376052a8adb352.txt": "5a1ed565b3782a0215af2f9348f80083e7c012b6c12f366162cdc10b88d38e00"
+  },
+  "revision": "43da803bf9177514e251232b672fc8868db2cbe15a337d3570533a93c05c44ef"
+}
